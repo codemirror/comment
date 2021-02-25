@@ -1,3 +1,9 @@
+## 0.17.3 (2021-02-25)
+
+### Bug fixes
+
+Don't change lines that have the end of a range selection directly at their start when line commenting.
+
 ## 0.17.2 (2021-02-18)
 
 ### Bug fixes
