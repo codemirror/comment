@@ -1,3 +1,9 @@
+## 0.18.1 (2021-05-10)
+
+### Bug fixes
+
+Toggling line comments will now add comments when a range with both commented and uncommented lines is selected (to allow toggling without changing anything).
+
 ## 0.18.0 (2021-03-03)
 
 ### Breaking changes

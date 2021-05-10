@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/comment",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "description": "Commenting and uncommenting commands for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",
