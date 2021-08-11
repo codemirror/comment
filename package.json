@@ -1,6 +1,6 @@
 {
   "name": "@codemirror/comment",
-  "version": "0.18.1",
+  "version": "0.19.0",
   "description": "Commenting and uncommenting commands for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",
@@ -26,13 +26,13 @@
   "sideEffects": false,
   "license": "MIT",
   "dependencies": {
-    "@codemirror/state": "^0.18.0",
-    "@codemirror/text": "^0.18.0",
-    "@codemirror/view": "^0.18.0"
+    "@codemirror/state": "^0.19.0",
+    "@codemirror/text": "^0.19.0",
+    "@codemirror/view": "^0.19.0"
   },
   "devDependencies": {
     "@codemirror/buildhelper": "^0.1.5",
-    "@codemirror/lang-html": "^0.18.0"
+    "@codemirror/lang-html": "^0.19.0"
   },
   "repository": {
     "type": "git",
