@@ -17,4 +17,6 @@ uncommenting the selection.
 
 @blockUncomment
 
+@toggleBlockCommentByLine
+
 @commentKeymap
