@@ -1,3 +1,15 @@
+## 0.19.1 (2022-02-16)
+
+### Bug fixes
+
+The commenting commands now never do anything in a read-only editor.
+
+Make `toggleComment` use `toggleBlockCommentPerLine` when no line comment syntax is available.
+
+### New features
+
+Add a `toggleBlockCommentByLine` command, which toggles commenting/uncommenting of entire selected lines.
+
 ## 0.19.0 (2021-08-11)
 
 ### Breaking changes
